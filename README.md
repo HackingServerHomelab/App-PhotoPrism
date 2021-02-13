@@ -4,7 +4,7 @@
 
 1. `rm ./Data/mysql/.gitkeep`
 2. `chown 1000:1000 ./Data/photoprism`
-2. Run [Traefik](https://github.com/mattlombana/App-Traefik)
+2. Run [Traefik](https://github.com/HackingServerHomelab/App-Traefik)
 
 ## Running the Containers
 
